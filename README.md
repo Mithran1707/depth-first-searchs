@@ -1,8 +1,7 @@
 # ExpNo 2 : Implement Depth First Search Traversal of a Graph
 
-**Name:** Amal Tony Charles A
-
-**Register Number:** 212225040018
+<h3>Name: K Mithran A</h3>
+<h3>Register Number: 212225220064 </h3>
 
 ## Aim
 
